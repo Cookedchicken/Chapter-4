@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ageInsultGenerator", "ageInsultGenerator\ageInsultGenerator.csproj", "{B46B8C5B-EA33-4025-82DD-2CA4624B1D52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B46B8C5B-EA33-4025-82DD-2CA4624B1D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46B8C5B-EA33-4025-82DD-2CA4624B1D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46B8C5B-EA33-4025-82DD-2CA4624B1D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46B8C5B-EA33-4025-82DD-2CA4624B1D52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7210B093-656C-42D9-803E-7F4A68AF8A4A}
+	EndGlobalSection
+EndGlobal
